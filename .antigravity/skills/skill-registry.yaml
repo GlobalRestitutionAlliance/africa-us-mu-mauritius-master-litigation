@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: mauritiusian-restitution-roadmap-and-qsf-trust-execution
-  name: Mauritiusian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/mauritiusian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_mu_001
+    name: Mauritius Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_002
+    name: Mauritius Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_003
+    name: Mauritius Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_004
+    name: Mauritius Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_005
+    name: Mauritius Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_006
+    name: Mauritius Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_007
+    name: Mauritius Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_008
+    name: Mauritius Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_009
+    name: Mauritius Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_010
+    name: Mauritius Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_011
+    name: Mauritius Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_012
+    name: Mauritius Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_013
+    name: Mauritius Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_014
+    name: Mauritius Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_015
+    name: Mauritius Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_016
+    name: Mauritius Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_017
+    name: Mauritius Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_018
+    name: Mauritius Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_019
+    name: Mauritius Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_020
+    name: Mauritius Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_021
+    name: Mauritius Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_022
+    name: Mauritius Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_023
+    name: Mauritius Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_024
+    name: Mauritius Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_025
+    name: Mauritius Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_026
+    name: Mauritius Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_027
+    name: Mauritius Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_028
+    name: Mauritius Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_029
+    name: Mauritius Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_030
+    name: Mauritius Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_031
+    name: Mauritius Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_032
+    name: Mauritius Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_033
+    name: Mauritius Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_034
+    name: Mauritius Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_035
+    name: Mauritius Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_036
+    name: Mauritius Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_037
+    name: Mauritius Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_038
+    name: Mauritius Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_039
+    name: Mauritius Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_040
+    name: Mauritius Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_041
+    name: Mauritius Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_042
+    name: Mauritius Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_043
+    name: Mauritius Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_044
+    name: Mauritius Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_045
+    name: Mauritius Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_046
+    name: Mauritius Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_047
+    name: Mauritius Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_048
+    name: Mauritius Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_049
+    name: Mauritius Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_050
+    name: Mauritius Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_051
+    name: Mauritius Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_052
+    name: Mauritius Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_053
+    name: Mauritius Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_054
+    name: Mauritius Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_055
+    name: Mauritius Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_056
+    name: Mauritius Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_057
+    name: Mauritius Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_058
+    name: Mauritius Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_059
+    name: Mauritius Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_060
+    name: Mauritius Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_061
+    name: Mauritius Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_062
+    name: Mauritius Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_063
+    name: Mauritius Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_064
+    name: Mauritius Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_065
+    name: Mauritius Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_066
+    name: Mauritius Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_067
+    name: Mauritius Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_068
+    name: Mauritius Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_069
+    name: Mauritius Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_070
+    name: Mauritius Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_071
+    name: Mauritius Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_072
+    name: Mauritius Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_073
+    name: Mauritius Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_074
+    name: Mauritius Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_075
+    name: Mauritius Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_076
+    name: Mauritius Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_077
+    name: Mauritius Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_078
+    name: Mauritius Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_079
+    name: Mauritius Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_080
+    name: Mauritius Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_081
+    name: Mauritius Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_082
+    name: Mauritius Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_083
+    name: Mauritius Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_084
+    name: Mauritius Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_085
+    name: Mauritius Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_086
+    name: Mauritius Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_087
+    name: Mauritius Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_088
+    name: Mauritius Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_089
+    name: Mauritius Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_090
+    name: Mauritius Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_091
+    name: Mauritius Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_092
+    name: Mauritius Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_093
+    name: Mauritius Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_094
+    name: Mauritius Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_095
+    name: Mauritius Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_096
+    name: Mauritius Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_097
+    name: Mauritius Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_098
+    name: Mauritius Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_099
+    name: Mauritius Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_100
+    name: Mauritius Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_101
+    name: Mauritius Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_102
+    name: Mauritius Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_103
+    name: Mauritius Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_104
+    name: Mauritius Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_105
+    name: Mauritius Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_106
+    name: Mauritius Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_107
+    name: Mauritius Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_108
+    name: Mauritius Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_109
+    name: Mauritius Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_110
+    name: Mauritius Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_111
+    name: Mauritius Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_112
+    name: Mauritius Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_113
+    name: Mauritius Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_114
+    name: Mauritius Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_115
+    name: Mauritius Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_116
+    name: Mauritius Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_117
+    name: Mauritius Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_118
+    name: Mauritius Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_119
+    name: Mauritius Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_120
+    name: Mauritius Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_121
+    name: Mauritius Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_122
+    name: Mauritius Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_123
+    name: Mauritius Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_124
+    name: Mauritius Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_125
+    name: Mauritius Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_126
+    name: Mauritius Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_127
+    name: Mauritius Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_128
+    name: Mauritius Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_129
+    name: Mauritius Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_130
+    name: Mauritius Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_131
+    name: Mauritius Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_132
+    name: Mauritius Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_133
+    name: Mauritius Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_134
+    name: Mauritius Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_135
+    name: Mauritius Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_136
+    name: Mauritius Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_137
+    name: Mauritius Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_138
+    name: Mauritius Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_139
+    name: Mauritius Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_140
+    name: Mauritius Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_141
+    name: Mauritius Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_142
+    name: Mauritius Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_143
+    name: Mauritius Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_144
+    name: Mauritius Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_145
+    name: Mauritius Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_146
+    name: Mauritius Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_147
+    name: Mauritius Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_148
+    name: Mauritius Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_149
+    name: Mauritius Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_150
+    name: Mauritius Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_151
+    name: Mauritius Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_152
+    name: Mauritius Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_153
+    name: Mauritius Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_154
+    name: Mauritius Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_155
+    name: Mauritius Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_156
+    name: Mauritius Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_157
+    name: Mauritius Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_158
+    name: Mauritius Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_159
+    name: Mauritius Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_160
+    name: Mauritius Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_161
+    name: Mauritius Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_162
+    name: Mauritius Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_163
+    name: Mauritius Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_164
+    name: Mauritius Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_165
+    name: Mauritius Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_166
+    name: Mauritius Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_167
+    name: Mauritius Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_168
+    name: Mauritius Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_169
+    name: Mauritius Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_170
+    name: Mauritius Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_171
+    name: Mauritius Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_172
+    name: Mauritius Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_173
+    name: Mauritius Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_174
+    name: Mauritius Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_175
+    name: Mauritius Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_176
+    name: Mauritius Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_177
+    name: Mauritius Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_178
+    name: Mauritius Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_179
+    name: Mauritius Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_180
+    name: Mauritius Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_181
+    name: Mauritius Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_182
+    name: Mauritius Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_183
+    name: Mauritius Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_184
+    name: Mauritius Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_185
+    name: Mauritius Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_186
+    name: Mauritius Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_187
+    name: Mauritius Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_188
+    name: Mauritius Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_189
+    name: Mauritius Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_190
+    name: Mauritius Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_191
+    name: Mauritius Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_192
+    name: Mauritius Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_193
+    name: Mauritius Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_194
+    name: Mauritius Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_195
+    name: Mauritius Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_196
+    name: Mauritius Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_197
+    name: Mauritius Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_198
+    name: Mauritius Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_199
+    name: Mauritius Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_200
+    name: Mauritius Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_201
+    name: Mauritius Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_202
+    name: Mauritius Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_203
+    name: Mauritius Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_204
+    name: Mauritius Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_205
+    name: Mauritius Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_206
+    name: Mauritius Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_207
+    name: Mauritius Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_208
+    name: Mauritius Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_209
+    name: Mauritius Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_210
+    name: Mauritius Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_211
+    name: Mauritius Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_212
+    name: Mauritius Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_213
+    name: Mauritius Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_214
+    name: Mauritius Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_215
+    name: Mauritius Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_216
+    name: Mauritius Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_217
+    name: Mauritius Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_218
+    name: Mauritius Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_219
+    name: Mauritius Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_220
+    name: Mauritius Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_221
+    name: Mauritius Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_222
+    name: Mauritius Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_223
+    name: Mauritius Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_224
+    name: Mauritius Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_225
+    name: Mauritius Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_226
+    name: Mauritius Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_227
+    name: Mauritius Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_228
+    name: Mauritius Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_229
+    name: Mauritius Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_230
+    name: Mauritius Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_231
+    name: Mauritius Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_232
+    name: Mauritius Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_233
+    name: Mauritius Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_234
+    name: Mauritius Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_235
+    name: Mauritius Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_236
+    name: Mauritius Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_237
+    name: Mauritius Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_238
+    name: Mauritius Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_239
+    name: Mauritius Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_240
+    name: Mauritius Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_241
+    name: Mauritius Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_242
+    name: Mauritius Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_243
+    name: Mauritius Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_244
+    name: Mauritius Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_245
+    name: Mauritius Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_246
+    name: Mauritius Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_247
+    name: Mauritius Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_248
+    name: Mauritius Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_249
+    name: Mauritius Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_250
+    name: Mauritius Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_251
+    name: Mauritius Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mu_252
+    name: Mauritius Skill 252
+    status: ACTIVE_SCAFFOLD

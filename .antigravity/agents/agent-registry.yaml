@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-mauritius-canal-and-intervention-historian
-  name: Mauritius Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-mauritius-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_mu_001
+    name: Mauritius Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_002
+    name: Mauritius Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_003
+    name: Mauritius Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_004
+    name: Mauritius Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_005
+    name: Mauritius Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_006
+    name: Mauritius Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_007
+    name: Mauritius Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_008
+    name: Mauritius Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_009
+    name: Mauritius Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_010
+    name: Mauritius Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_011
+    name: Mauritius Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_012
+    name: Mauritius Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_013
+    name: Mauritius Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_014
+    name: Mauritius Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_015
+    name: Mauritius Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_016
+    name: Mauritius Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_017
+    name: Mauritius Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_018
+    name: Mauritius Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_019
+    name: Mauritius Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_020
+    name: Mauritius Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_021
+    name: Mauritius Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_022
+    name: Mauritius Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_023
+    name: Mauritius Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_024
+    name: Mauritius Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_025
+    name: Mauritius Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_026
+    name: Mauritius Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_027
+    name: Mauritius Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_028
+    name: Mauritius Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_029
+    name: Mauritius Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_030
+    name: Mauritius Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_031
+    name: Mauritius Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_032
+    name: Mauritius Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_033
+    name: Mauritius Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_034
+    name: Mauritius Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_035
+    name: Mauritius Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_036
+    name: Mauritius Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_037
+    name: Mauritius Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_038
+    name: Mauritius Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_039
+    name: Mauritius Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_040
+    name: Mauritius Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_041
+    name: Mauritius Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_042
+    name: Mauritius Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_043
+    name: Mauritius Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_044
+    name: Mauritius Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_045
+    name: Mauritius Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_046
+    name: Mauritius Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_047
+    name: Mauritius Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_048
+    name: Mauritius Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_049
+    name: Mauritius Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_050
+    name: Mauritius Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_051
+    name: Mauritius Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_052
+    name: Mauritius Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_053
+    name: Mauritius Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_054
+    name: Mauritius Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_055
+    name: Mauritius Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_056
+    name: Mauritius Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_057
+    name: Mauritius Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_058
+    name: Mauritius Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_059
+    name: Mauritius Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_060
+    name: Mauritius Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_061
+    name: Mauritius Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_062
+    name: Mauritius Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_063
+    name: Mauritius Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_064
+    name: Mauritius Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_065
+    name: Mauritius Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_066
+    name: Mauritius Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_067
+    name: Mauritius Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_068
+    name: Mauritius Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_069
+    name: Mauritius Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_070
+    name: Mauritius Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_071
+    name: Mauritius Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_072
+    name: Mauritius Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_073
+    name: Mauritius Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_074
+    name: Mauritius Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_075
+    name: Mauritius Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_076
+    name: Mauritius Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_077
+    name: Mauritius Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_078
+    name: Mauritius Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_079
+    name: Mauritius Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_080
+    name: Mauritius Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_081
+    name: Mauritius Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_082
+    name: Mauritius Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_083
+    name: Mauritius Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_084
+    name: Mauritius Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_085
+    name: Mauritius Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_086
+    name: Mauritius Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_087
+    name: Mauritius Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_088
+    name: Mauritius Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_089
+    name: Mauritius Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_090
+    name: Mauritius Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_091
+    name: Mauritius Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_092
+    name: Mauritius Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_093
+    name: Mauritius Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_094
+    name: Mauritius Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_095
+    name: Mauritius Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_096
+    name: Mauritius Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_097
+    name: Mauritius Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_098
+    name: Mauritius Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_099
+    name: Mauritius Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_100
+    name: Mauritius Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_101
+    name: Mauritius Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_102
+    name: Mauritius Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_103
+    name: Mauritius Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_104
+    name: Mauritius Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_105
+    name: Mauritius Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_106
+    name: Mauritius Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_107
+    name: Mauritius Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_108
+    name: Mauritius Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_109
+    name: Mauritius Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_110
+    name: Mauritius Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_111
+    name: Mauritius Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_112
+    name: Mauritius Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_113
+    name: Mauritius Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_114
+    name: Mauritius Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_115
+    name: Mauritius Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_116
+    name: Mauritius Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_117
+    name: Mauritius Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_118
+    name: Mauritius Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_119
+    name: Mauritius Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_120
+    name: Mauritius Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_121
+    name: Mauritius Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_122
+    name: Mauritius Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_123
+    name: Mauritius Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_124
+    name: Mauritius Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_125
+    name: Mauritius Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_126
+    name: Mauritius Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_127
+    name: Mauritius Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_128
+    name: Mauritius Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_129
+    name: Mauritius Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_130
+    name: Mauritius Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_131
+    name: Mauritius Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_132
+    name: Mauritius Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_133
+    name: Mauritius Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_134
+    name: Mauritius Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_135
+    name: Mauritius Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_136
+    name: Mauritius Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_137
+    name: Mauritius Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_138
+    name: Mauritius Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_139
+    name: Mauritius Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_140
+    name: Mauritius Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_141
+    name: Mauritius Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_142
+    name: Mauritius Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_143
+    name: Mauritius Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_144
+    name: Mauritius Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_145
+    name: Mauritius Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_146
+    name: Mauritius Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_147
+    name: Mauritius Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_148
+    name: Mauritius Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_149
+    name: Mauritius Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_150
+    name: Mauritius Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_151
+    name: Mauritius Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_152
+    name: Mauritius Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_153
+    name: Mauritius Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_154
+    name: Mauritius Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_155
+    name: Mauritius Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_156
+    name: Mauritius Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_157
+    name: Mauritius Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_158
+    name: Mauritius Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_159
+    name: Mauritius Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_160
+    name: Mauritius Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_161
+    name: Mauritius Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_162
+    name: Mauritius Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_163
+    name: Mauritius Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_164
+    name: Mauritius Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_165
+    name: Mauritius Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_166
+    name: Mauritius Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_167
+    name: Mauritius Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_168
+    name: Mauritius Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_169
+    name: Mauritius Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mu_170
+    name: Mauritius Agent 170
+    status: ACTIVE_SCAFFOLD
