@@ -1,30 +1,16 @@
-# Citation Index
+# Citation Index - Mauritius (MU)
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Generated: 2026-11-21
 
-- CIT-0001: https://www.foia.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/FOIA.gov.html` | `2552fa622a31c82c...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0002: https://archive.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Internet_Archive.html` | `329de0d85f690421...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0003: https://www.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress.html` | `954e885a8a94a297...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0004: https://digitallibrary.un.org/search | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_01_UN_Digital_Library_-_Search.html` | `e3b0c44298fc1c14...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0005: https://au.int/ | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_04_African_Union.html` | `72ead2dcabcc4041...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0006: https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/ | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_05_US_State_Dept_Human_Rights_Reports.html` | `bf08c5f0f19a93ba...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0007: https://history.state.gov/historicaldocuments | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_06_US_State_Dept_Office_of_the_Historian_FRUS.html` | `c948fdff783f2e5f...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0008: https://www.archives.gov/research/foreign-policy | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_07_NARA_Foreign_Affairs_Research.html` | `c4cda55cb948dfd6...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0009: https://treaties.un.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_10_UN_Treaty_Collection.html` | `6e25c081a76ea38c...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0010: https://www.icj-cij.org/cases | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_11_ICJ_Cases.html` | `c66ffe4b81a51b59...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0011: https://achpr.au.int/ | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_12_African_Commission_on_Human_and_Peoples_Rights.html` | `5b2220e1201a43c5...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0012: https://www.archives.gov/foia | `03_Evidentiary_Exhibits/Immutable_Ledger/NARA_FOIA.html` | `10a153c64fe2af1e...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0013: https://www.govinfo.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_Govt_Publishing_Office.html` | `2afbc7eda2fb8bd7...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0014: https://www.archives.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_National_Archives.html` | `b1be5889069b829d...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0015: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0016: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `e782f7abd7ec186e...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0017: https://discovery.nationalarchives.gov.uk/details/a?_q=mauritius+slavery+colonial | `03_Evidentiary_Exhibits/Immutable_Ledger/UK_National_Archives_-_Mauritius.html` | `e3b0c44298fc1c14...` | PENDING_LEGAL_REVIEW | substantive= | quality=
-- CIT-0018: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_browser.html` | `043844d20cc25a01...` | PENDING_LEGAL_REVIEW | substantive=false | quality=NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE
-- CIT-0019: https://www.courtlistener.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CourtListener_browser.html` | `dcf146ceffc53a8f...` | PENDING_LEGAL_REVIEW | substantive=true | quality=
-- CIT-0020: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_browser.html` | `978de412304f553d...` | PENDING_LEGAL_REVIEW | substantive=true | quality=
-- CIT-0021: https://www.justia.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Justia_browser.html` | `533b6b68c88f867f...` | PENDING_LEGAL_REVIEW | substantive=false | quality=NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE
-- CIT-0022: https://www.loc.gov/item/?q=mauritius+slavery+indenture+colonial | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Mauritius_browser.html` | `ce32f63b96898f03...` | PENDING_LEGAL_REVIEW | substantive=false | quality=NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE
-- CIT-0023: https://digitallibrary.un.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_Digital_Library_browser.html` | `aff9e4acb0d3fb0a...` | PENDING_LEGAL_REVIEW | substantive=false | quality=NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE
-- CIT-0024: https://www.ohchr.org/en/countries/mauritius | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_Mauritius_browser.html` | `433c4cfac2538e09...` | PENDING_LEGAL_REVIEW | substantive=true | quality=
-- CIT-0025: https://www.unesco.org/en/routes-enslaved-peoples | `03_Evidentiary_Exhibits/Immutable_Ledger/UNESCO_Slave_Route_browser.html` | `f57bf7381ae1d5de...` | PENDING_LEGAL_REVIEW | substantive=true | quality=
-- CIT-0026: https://data.worldbank.org/country/mauritius | `03_Evidentiary_Exhibits/Immutable_Ledger/World_Bank_Mauritius_browser.html` | `f06a2be59a4e5acb...` | PENDING_LEGAL_REVIEW | substantive=false | quality=NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE
+**Rule:** No citation marked VERIFIED without local hashed source artifact. All entries default `PENDING_LEGAL_REVIEW`.
+
+| Citation ID | Title | Date | Author | URL | Local Artifact | SHA-256 | Ref | Status |
+|---|---|---|---|---|---|---|---|---|
+| MU-CIT-0001 | UN Digital Library - Search |  | United Nations | https://digitallibrary.un.org/search | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_01_UN_Digital_Library_-_Search.html` | `e3b0c44298fc1c14...` |  | PENDING_LEGAL_REVIEW |
+| MU-CIT-0002 | African Union | 2026-11-21T11:19:50Z |  | https://au.int/ | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_04_African_Union.html` | `72ead2dcabcc4041...` | html/p[2] | PENDING_LEGAL_REVIEW |
+| MU-CIT-0003 | US State Dept Human Rights Reports |  | U.S. Department of State | https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/ | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_05_US_State_Dept_Human_Rights_Reports.html` | `bf08c5f0f19a93ba...` | html/p[5] | PENDING_LEGAL_REVIEW |
+| MU-CIT-0004 | US State Dept Office of the Historian (FRUS) |  | U.S. Department of State | https://history.state.gov/historicaldocuments | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_06_US_State_Dept_Office_of_the_Historian_FRUS.html` | `c948fdff783f2e5f...` | html/p[2] | PENDING_LEGAL_REVIEW |
+| MU-CIT-0005 | NARA Foreign Affairs Research | 2016-08-15T17:28:02-04:00 | U.S. National Archives (NARA) | https://www.archives.gov/research/foreign-policy | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_07_NARA_Foreign_Affairs_Research.html` | `c4cda55cb948dfd6...` | html/p[3] | PENDING_LEGAL_REVIEW |
+| MU-CIT-0006 | UN Treaty Collection |  | United Nations | https://treaties.un.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_10_UN_Treaty_Collection.html` | `6e25c081a76ea38c...` | html/p[1] | PENDING_LEGAL_REVIEW |
+| MU-CIT-0007 | ICJ Cases |  | International Court of Justice | https://www.icj-cij.org/cases | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_11_ICJ_Cases.html` | `c66ffe4b81a51b59...` | html/p[2] | PENDING_LEGAL_REVIEW |
+| MU-CIT-0008 | African Commission on Human and Peoples Rights | 2026-11-20T13:00:03Z |  | https://achpr.au.int/ | `03_Evidentiary_Exhibits/Immutable_Ledger/MU_12_African_Commission_on_Human_and_Peoples_Rights.html` | `5b2220e1201a43c5...` | html/p[2] | PENDING_LEGAL_REVIEW |
